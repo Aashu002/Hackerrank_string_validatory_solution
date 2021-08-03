@@ -1,9 +1,8 @@
 # Hackerrank_string_validatory_solution
-Hackerrank solution for String Validators problem
 Python has built-in string validation methods for basic data. It can check if a string is composed of alphabetical characters, alphanumeric characters, digits, etc.
 
 str.isalnum()
-This method checks if all the characters of a string are alphanumeric (a-z, A-Z and 0-9).
+#This method checks if all the characters of a string are alphanumeric (a-z, A-Z and 0-9).
 
 >>> print 'ab123'.isalnum()
 True
