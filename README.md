@@ -1,0 +1,2 @@
+# Hackerrank_string_validatory_solution
+Hackerrank solution for String Validators problem
